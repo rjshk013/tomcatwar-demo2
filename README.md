@@ -28,3 +28,10 @@ After the build check the war file generated from the jenkins folder (/var/jenki
 At last check the war file deployed correctly from the tomcat url like : localhost:port/rps 
 
 Reference : https://www.theserverside.com/video/Step-by-step-Jenkins-Tomcat-deploy-of-a-WAR-file
+
+Tomcat-wardemo 3
+-----------------
+
+You can clone the repo : https://github.com/manishmore/JenkinsWar
+
+follow blog : https://cmstoddler.com/deploy-war-file-tomcat-8-using-jenkins-maven-and-github
