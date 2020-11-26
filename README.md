@@ -34,4 +34,6 @@ Tomcat-wardemo 3
 
 You can clone the repo : https://github.com/manishmore/JenkinsWar
 
+To get the app on tomcat : http://localhost:8999/JenkinsWar/
+
 follow blog : https://cmstoddler.com/deploy-war-file-tomcat-8-using-jenkins-maven-and-github
